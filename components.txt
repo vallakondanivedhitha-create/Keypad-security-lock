@@ -1,0 +1,6 @@
+Arduino UNO
+4x4 Keypad
+Servo Motor
+Buzzer
+Breadboard
+Jumper Wires
