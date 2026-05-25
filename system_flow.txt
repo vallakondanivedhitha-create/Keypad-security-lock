@@ -1,0 +1,7 @@
+Enter Password
+      ↓
+Password Match
+  ↓         ↓
+YES         NO
+↓            ↓
+Door Open   Access Denied
