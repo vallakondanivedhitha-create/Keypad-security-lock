@@ -1,0 +1,9 @@
+Project Name: Keypad Based Security Lock
+
+Domain: Embedded Systems
+
+Description:
+This project uses keypad password authentication to unlock a door using Arduino.
+
+Software Used:
+Arduino IDE
